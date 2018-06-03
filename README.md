@@ -1,6 +1,6 @@
 FinChain-UI
 ============
-
+金融链界面
 This is a light wallet that connects to a FinChain API provided by the *witness_node* executable.
 
 
